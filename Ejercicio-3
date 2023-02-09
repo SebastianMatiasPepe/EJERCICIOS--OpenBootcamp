@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 02/2 - Tablas en HTML</title>
+</head>
+<body>
+    <h1>Ejercicio 02/2 - Tablas en HTML</h1>
+        <table>
+            <tr> 
+                <th>   Titulo  </th>
+                <th>   Autor  </th>
+                <th>   Año de publicacion </th>
+                <th>   Enlace a Amazon</th> 
+                
+            </tr>
+
+            <tr>
+                <td> El Resplandor</td>
+                <td>Stephen King</td>
+                <td>28/01/1977</td>
+                <td > <a href="https://www.amazon.com/-/es/Stephen-King/dp/8490328722">https://www.amazon.com/-/es/Stephen-King/dp/8490328722</a> </td> 
+                
+            </tr>
+
+            <tr>
+                <td>El señor de los anillos:La comunidad del anillo</td>
+                <td>J. R. R. Tolkien</td>
+                <td>29/07/1954</td>
+                <td> <a href="https://www.amazon.com/-/es/J-R-Tolkien/dp/8445000667">https://www.amazon.com/-/es/J-R-Tolkien/dp/8445000667</a></td>
+            </tr>
+            
+            <tr>
+                <td>Harry Potter y la piedra filosofal </td>
+                <td>J.k Rowling</td>
+                <td>26/06/1997</td>
+                <td> <a href="https://www.amazon.com/-/es/J-K-Rowling/dp/8478884459">https://www.amazon.com/-/es/J-K-Rowling/dp/8478884459</a></td>
+            </tr>
+
+        </table>
+
+
+</body>
+</html>
